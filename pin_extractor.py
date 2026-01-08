@@ -1,2 +1,3 @@
 def pin_extractor(poems):
-    pass
+    
+    secret_code = ""
