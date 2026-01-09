@@ -4,6 +4,9 @@ def pin_extractor(poems):
 
     lines = poem.split("\n")
 
+    for line in lines:
+        print(line)
+
 poem = """Stars and the moon
 shine in the sky
 white and bright
