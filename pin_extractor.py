@@ -6,6 +6,8 @@ def pin_extractor(poems):
 
     for line in lines:
         print(line)
+        words = line.split()
+        print(words)
 
 poem = """Stars and the moon
 shine in the sky
